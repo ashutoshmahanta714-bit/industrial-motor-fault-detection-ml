@@ -1,0 +1,22 @@
+# Local credentials
+firmware/secrets.h
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated data and model artifacts
+sensor_log.csv
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
